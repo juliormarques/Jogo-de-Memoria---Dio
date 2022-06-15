@@ -1,9 +1,7 @@
-# Jogo-de-Memoria---Dio
+# Jogo da memória com JavaScript
 
-Este Jogo de memoria é um exercicio Proposto no BOOTCAMP da TQI, propmovido pela DIO
+Projeto desenvolvido durante o bootcamp React Web Developer da Digital Innovation One.
 
-##Novamente 
+**Objetivo:** aprender efeitos 3D no CSS, lógica de programação com condicionais, Immediately Invoked Function Expression e manipulação de Arrays.
 
-As alulas do Curso estão com letras pequenas, ficando dificil acompanhar a aula 
-
-Mas não ha de ser NADA, Deus é maior e e em seu AMOR esta a nossa ESPERANÇA ...
+<img src="https://github.com/isabelavs/dio-jogo-da-memoria/blob/master/img/jogo-da-memoria.gif" alt="gif do jogo">
